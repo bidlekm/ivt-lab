@@ -1,0 +1,32 @@
+[33mcommit d9b9b63024c8dd1e9732be0f4b6e44ef7934e3f3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/implementfireingall[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mimplementfireingall[m[33m)[m
+Merge: be2ad54 b16f293
+Author: bidlekm <bidlekmarton@gmail.com>
+Date:   Sun Apr 18 09:35:09 2021 +0200
+
+    Merge pull request #2 from bidlekm/implementfireingall
+    
+    implemented fireing all
+
+[33mcommit b16f293da79d8cf984ad4597012af995daf6f7d8[m
+Author: unknown <bidlekmarton@gmail.com>
+Date:   Sun Apr 18 07:30:24 2021 +0200
+
+    implemented fireing all
+
+[33mcommit be2ad54b988d7d7a29b7f6aedf23ac994a8090bf[m
+Author: bidlekm <bidlekmarton@gmail.com>
+Date:   Sat Apr 17 19:54:25 2021 +0200
+
+    Create maven.yml
+
+[33mcommit 8802a1db65afe922f77ed0939fa2bcb23ea5fffe[m
+Author: unknown <bidlekmarton@gmail.com>
+Date:   Sat Apr 17 19:53:19 2021 +0200
+
+    files added
+
+[33mcommit aa9af7292549498fff75c8a39e5b168e7e3359fa[m
+Author: bidlekm <bidlekmarton@gmail.com>
+Date:   Sat Apr 17 19:47:51 2021 +0200
+
+    Initial commit
